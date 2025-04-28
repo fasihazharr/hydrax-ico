@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# HydraX ICO Launch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the official repository for **HydraX (HDRX)** — a decentralized, community-driven cryptocurrency initiative.
 
-## Available Scripts
+🚀 Live Website: [https://hydrax-ico.vercel.app/](https://hydrax-ico.vercel.app/)
 
-In the project directory, you can run:
+## Project Overview
 
-### `npm start`
+HydraX (HDRX) is an ERC-20 compliant token deployed on the **Polygon Mainnet**, aiming to bridge traditional finance expertise with the new frontier of decentralized finance (DeFi).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project encompasses:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **ERC-20 Token Contract**: Fully compliant using OpenZeppelin standards.
+- **ICO Sale Contract**: Enables direct HDRX token purchases with POL.
+- **Frontend**: Developed using React.js and TailwindCSS for sleek UI/UX.
+- **MetaMask Wallet Integration**: Users can buy HDRX securely.
+- **Deployment**: Hosted live on Vercel for global access.
 
-### `npm test`
+## Technology Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Blockchain**: Solidity, ERC-20 (OpenZeppelin Contracts)
+- **Frontend**: React.js, TailwindCSS, Ethers.js
+- **Wallet Integration**: MetaMask
+- **Version Control**: Git + GitHub
+- **Hosting**: Vercel
 
-### `npm run build`
+## How It Works
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Connect your MetaMask wallet.
+2. Ensure you are on the **Polygon Mainnet**.
+3. Input the amount of POL you want to exchange.
+4. Instantly receive HDRX tokens!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Vision and Roadmap
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+HydraX is an early step towards a broader vision of launching a fully-fledged financial ecosystem blending:
 
-### `npm run eject`
+- Traditional investment frameworks (Private Equity, Portfolio Management)
+- DeFi-native offerings (Staking, Yield Farming, Tokenized Assets)
+- Smart Contract Auditing and Consulting
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Planned Next Steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Launch HydraX V2 with enhanced DeFi capabilities
+- Release official whitepaper and tokenomics
+- List on decentralized exchanges (DEXs) such as QuickSwap
+- Build staking and liquidity mining platforms
+- Begin institutional outreach for hybrid finance adoption
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+> "Where traditional finance meets decentralized innovation."
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2025 HydraX ICO Launch | All Rights Reserved
